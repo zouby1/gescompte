@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499595997487",
+    "project_id": "gestionclinique-fb1f6",
+    "storage_bucket": "gestionclinique-fb1f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499595997487:android:f8ba476375d048026571da",
+        "android_client_info": {
+          "package_name": "com.zouby.gestionclinique.gestion_clinique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499595997487-53p57i079vd33j2pm3ru6skmqk24222q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtDWdfZcf4uML4v-uvQIC8OGhNPYXUfrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499595997487-53p57i079vd33j2pm3ru6skmqk24222q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
